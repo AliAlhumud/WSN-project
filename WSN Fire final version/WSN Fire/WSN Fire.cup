@@ -1,0 +1,19 @@
+CupCarbon v. IoT 5.0
+----------------
+name:WSN Fire
+zoom:2
+centerposition_la:25.344297504027608
+centerposition_lo:769.5965337753296
+map:2
+display_details:true
+draw_radio_links:true
+draw_sensor_arrows:false
+radio_links_color:0
+draw_marker_arrows:false
+display_rl_distance:true
+propagation:false
+display_marker_distance:false
+display_radio_messages:true
+draw_script_file_name:true
+display_print_messages:true
+display_all_routes:false

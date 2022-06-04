@@ -1,0 +1,13 @@
+===========================
+Initialization
+======================================================
+START SIMULATION
+======================================================
+
+----------------------------------------------------------------------------
+Time : 0.0
+Min (milliseconds) : 0.0
+S17 Starts the loop section.
+S17 is waiting for data ...
+S18 Starts the loop section.
+S18 PRINTFILE [printfile, Battrey, =, $e]
